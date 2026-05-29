@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://gamma.app/docs/vms--hf61nyi57m4pes4"
+      "destination": "https://vms--wvy515o.gamma.site/"
     }
   ]
 }
