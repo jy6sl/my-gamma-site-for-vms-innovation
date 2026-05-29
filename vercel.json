@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://gamma.app/docs/vms--hf61nyi57m4pes4"
+    }
+  ]
+}
